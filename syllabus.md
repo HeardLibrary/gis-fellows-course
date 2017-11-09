@@ -1,6 +1,6 @@
 # Introduction to Geographic Information Systems   
 ### Spring Semester 2018
-### Thursdays, 11:10am - 12:25pm
+#### Thursdays, 11:10am - 12:25pm
 #### Stevenson 2200
 
 Lindsey Fox, *GIS Coordinator*
