@@ -54,17 +54,17 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 
 
-### Schedule:
+## Schedule:
 
-## Week 1:  Chapter 1: Data and Information
+#### Week 1:  Chapter 1: Data and Information
 
 **Thursday, January 11** 
 
-## Week 2:  Chapter 2: Scales and Transformations, Georeferencing
+#### Week 2:  Chapter 2: Scales and Transformations, Georeferencing
 
 **Thursday, January 18** 
 
-## Week 3:  Chapter 3: Census Data and Thematic Maps
+#### Week 3:  Chapter 3: Census Data and Thematic Maps
 
 **Thursday, January 25** 
  
