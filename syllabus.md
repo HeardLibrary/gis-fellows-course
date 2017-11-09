@@ -46,7 +46,7 @@ This course will be graded on a pass/fail basis. To pass the course, students mu
 
 Available by appointment:  
 
-Schedule appointment with Lindsey: [Appointment Scheduler](http://calendar.library.vanderbilt.edu/appointment/9471)
+Schedule an appointment with Lindsey: [Appointment Scheduler](http://calendar.library.vanderbilt.edu/appointment/9471)
 
 Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.library.vanderbilt.edu/appointment/8737)
 
