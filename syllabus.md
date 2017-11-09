@@ -1,12 +1,13 @@
 # Introduction to Geographic Information Systems   
-### Spring 2018, Thursdays, 11:10am-12:25pm
+### Spring Semester 2018
+### Thursdays, 11:10am - 12:25pm
 #### Stevenson 2200
 
 Lindsey Fox, *GIS Coordinator*
 
 Email:  lindsey.fox@Vanderbilt.edu
 
-Richard Stringer-Hye, *Librarian for Civil Engineering, Earth and Environmental Sciences*
+Richard Stringer-Hye, *Librarian for Earth and Environmental Sciences and Civil and Environmental Engineering, *
 
 Email:  richard.stringer-hye@vanderbilt.edu
 
