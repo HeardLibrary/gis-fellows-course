@@ -8,7 +8,7 @@ Email:  lindsey.fox@Vanderbilt.edu
 
 Richard Stringer-Hye, *Librarian for Civil Engineering, Earth and Environmental Sciences*
 
-Email:  richard.stringer-hye@Vanderbilt.edu
+Email:  richard.stringer-hye@vanderbilt.edu
 
 This course will teach students how to solve practical spatial problems using cutting edge Geographic Information Systems (GIS) tools. Students will identify interdisciplinary questions amenable to spatial solutions, learn how to collect and curate geographic information, and design real-world mapping applications. By the end of the course, students will have gained familiarity with multiple types of GIS systems, and be able to select which system best fits their research needs. In addition, students will share and develop their geographic analyses with community stakeholders.  Lead mentors: Lindsey Fox and Richard Stringer-Hye.
 
