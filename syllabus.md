@@ -1,5 +1,5 @@
 # Introduction to Geographic Information Systems   
-### Spring Semester 2018
+## Spring Semester 2018
 #### Thursdays, 11:10am - 12:25pm
 #### Stevenson 2200 (Stevenson  Computer Lab)
 
