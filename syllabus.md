@@ -16,7 +16,7 @@ This course will teach students how to solve practical spatial problems using cu
 
 ## Learning Objectives:
 
-By the End of this course, the student will:
+By the end of this course, the student will:
 
 * Identify and solve spatial problems
 * Learn how to collect and curate geographic information
