@@ -47,7 +47,7 @@ Available by appointment:
 
 Schedule appointment with Lindsey: [Appointment Scheduler](http://calendar.library.vanderbilt.edu/appointment/9471)
 
-Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.library.vanderbilt.edu/appointment/8692)
+Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.library.vanderbilt.edu/appointment/8737)
 
 ## Lab Hours:
 
