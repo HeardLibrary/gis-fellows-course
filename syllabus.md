@@ -59,7 +59,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 **Thursday, January 11** 
 
 #### Week 2:  Chapter 1- Data and Information
-**Homework: [Referencing Data to Real-World Locations Using ArcGIS](https://www.esri.com/training/catalog/57630438851d31e02a43f293/referencing-data-to-real-world-locations-using-arcgis/)
+**Homework: [Referencing Data to Real-World Locations Using ArcGIS](https://www.esri.com/training/catalog/57630438851d31e02a43f293/referencing-data-to-real-world-locations-using-arcgis/)**
 
 **Thursday, January 18** 
 
