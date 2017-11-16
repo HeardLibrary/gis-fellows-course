@@ -52,8 +52,6 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 ## Lab Hours:
 
-
-
 ## Schedule:
 
 #### Week 1:  Chapter 1: Data and Information
@@ -66,5 +64,59 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 #### Week 3:  Chapter 3: Census Data and Thematic Maps
 
-**Thursday, January 25** 
+**Thursday, January 25**
+
+#### Week 4:  Chapter 4: Data and Information
+
+**Thursday, February 1** 
+
+#### Week 5:  Chapter 5: 
+
+**Thursday, February 8** 
+
+#### Week 6:  Chapter 6: 
+
+**Thursday, February 15**
+
+#### Week 7:  Chapter 7: 
+
+**Thursday, February 22** 
+
+#### Week 8:  Chapter 8: 
+
+**Thursday, March 1**
+
+#### Week 9:  Spring Break- No Class
+
+**Thursday, March 8** 
+
+#### Week 10:  Chapter 9
+
+**Thursday, March 15** 
+
+#### Week 11:  Chapter 10
+
+**Thursday, March 22** 
+
+#### Week 12:  Chapter 11
+
+**Thursday, March 29** 
+
+#### Week 13:  Chapter 12
+
+**Thursday, April 5** 
+
+#### Week 14:  Chapter 13
+
+**Thursday, April 12* 
+
+#### Week 15:  Chapter 14
+
+**Thursday, April 19** 
+
+
+
+
+
+
  
