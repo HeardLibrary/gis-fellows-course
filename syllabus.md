@@ -54,35 +54,35 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 ## Schedule:
 
-#### Week 1:  Chapter 1: Data and Information
+#### Week 1:  Chapter 1- Data and Information
 
 **Thursday, January 11** 
 
-#### Week 2:  Chapter 2: Scales and Transformations, Georeferencing
+#### Week 2:  Chapter 2- Scales and Transformations, Georeferencing
 
 **Thursday, January 18** 
 
-#### Week 3:  Chapter 3: Census Data and Thematic Maps
+#### Week 3:  Chapter 3- Census Data and Thematic Maps
 
 **Thursday, January 25**
 
-#### Week 4:  Chapter 4: Data and Information
+#### Week 4:  Chapter 4- Data and Information
 
 **Thursday, February 1** 
 
-#### Week 5:  Chapter 5: 
+#### Week 5:  Chapter 5- Land Surveying and GPS
 
 **Thursday, February 8** 
 
-#### Week 6:  Chapter 6: 
+#### Week 6:  Chapter 6 & 7- National Spatial Data Infrastructure
 
 **Thursday, February 15**
 
-#### Week 7:  Chapter 7: 
+#### Week 7:  Chapter 8- Remotely Sensed Image Data
 
 **Thursday, February 22** 
 
-#### Week 8:  Chapter 8: 
+#### Week 8:  Chapter 9- Integrating Geographic Data
 
 **Thursday, March 1**
 
@@ -90,27 +90,27 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 **Thursday, March 8** 
 
-#### Week 10:  Chapter 9
+#### Week 10:  Project Methodology Development and [Implementation](https://www.gislounge.com/defining-waterfall-and-agile-gis-project-management-styles/)
 
 **Thursday, March 15** 
 
-#### Week 11:  Chapter 10
+#### Week 11:  
 
 **Thursday, March 22** 
 
-#### Week 12:  Chapter 11
+#### Week 12:  
 
 **Thursday, March 29** 
 
-#### Week 13:  Chapter 12
+#### Week 13:  
 
 **Thursday, April 5** 
 
-#### Week 14:  Chapter 13
+#### Week 14:  
 
 **Thursday, April 12* 
 
-#### Week 15:  Chapter 14
+#### Week 15:  Show and Tell
 
 **Thursday, April 19** 
 
