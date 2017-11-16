@@ -54,37 +54,38 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 ## Schedule:
 
-#### Week 1:  Chapter 1- Data and Information
-
+#### Week 1:  Introductions
+**Homework: [Getting Started with GIS](https://www.esri.com/training/catalog/57630434851d31e02a43ef28/getting-started-with-gis/) and [Using ArcMap in ArcGIS 10](https://www.esri.com/training/catalog/5763042b851d31e02a43ed4d/using-arcmap-in-arcgis-desktop-10/)**
 **Thursday, January 11** 
 
-#### Week 2:  Chapter 2- Scales and Transformations, Georeferencing
+#### Week 2:  Chapter 1- Data and Information
+**Homework: [Referencing Data to Real-World Locations Using ArcGIS](https://www.esri.com/training/catalog/57630438851d31e02a43f293/referencing-data-to-real-world-locations-using-arcgis/)
 
 **Thursday, January 18** 
 
-#### Week 3:  Chapter 3- Census Data and Thematic Maps
+#### Week 3:  Chapter 2- Scales and Transformations
 
 **Thursday, January 25**
 
-#### Week 4:  Chapter 4- Data and Information
+#### Week 4:  Cartography
 
 **Thursday, February 1** 
 
-#### Week 5:  Chapter 5- Land Surveying and GPS
+#### Week 5:  Chapter 4- Geocoding & Georeferencing: Case Study Mapping Berlin Project
 
 **Thursday, February 8** 
 
-#### Week 6:  Chapter 6 & 7- National Spatial Data Infrastructure
+#### Week 6:  Web Mapping Applications
 
 **Thursday, February 15**
 
-#### Week 7:  Chapter 8- Remotely Sensed Image Data
+#### Week 7:  Chapter 8- Remotely Sensed Image Data and Remote Sensing
 
 **Thursday, February 22** 
 
-#### Week 8:  Chapter 9- Integrating Geographic Data
+#### Week 8:  Spatial Analysis
 
-**Thursday, March 1**
+**Thursday, March 1, Project Proposal Due**
 
 #### Week 9:  Spring Break- No Class
 
@@ -94,11 +95,11 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 **Thursday, March 15** 
 
-#### Week 11:  
+#### Week 11:  Methods?
 
 **Thursday, March 22** 
 
-#### Week 12:  
+#### Week 12:  Finding Data for Your Project
 
 **Thursday, March 29** 
 
