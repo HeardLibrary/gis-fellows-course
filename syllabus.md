@@ -61,71 +61,97 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 **Homework Readings: Chapter 1 of Geographic Information Science and Sytems by Paul A. Longley**
 **Thursday, January 11** 
 
+
 #### Week 2:  What is GIS?
 **Homework: [Referencing Data to Real-World Locations Using ArcGIS](https://www.esri.com/training/catalog/57630438851d31e02a43f293/referencing-data-to-real-world-locations-using-arcgis/)**
 
 **Homework Readings: Chapter 2 of Geographic Information Science and Sytems by Paul A. Longley**
 **Thursday, January 18** 
 
+
 #### Week 3:  The Nature of Geographic Data
 **Homework: []()**
+
 **Homework Readings:**
 **Thursday, January 25**
 
+
 #### Week 4:  Geocoding & Georeferencing
 **Homework: []()**
+
 **Homework Readings**
 **Thursday, February 1** 
 
+
 #### Week 5:  GI System Software
 **Homework: []()**
+
 **Homework Readings**
 **Thursday, February 8** 
 
+
 #### Week 6:  Web Mapping Applications
 **Homework: []()**
+
 **Homework Readings**
 **Thursday, February 15**
 
+
 #### Week 7:  Chapter 8- Remotely Sensed Image Data and Remote Sensing
 **Homework: []()**
+
 **Homework Readings: Chapter 13 of Geographic Information Science and Systems**
 **Thursday, February 22** 
 
+
 #### Week 8:  Spatial Data Analysis
 **Homework: []()**
+
 **Homework Readings**
 **Thursday, March 1, Project Proposal Due**
 
+
 #### Week 9:  Spring Break- No Class
 **Homework: []()**
+
 **Homework Readings**
 **Thursday, March 8** 
 
+
 #### Week 10:  Project Methodology Development and [Implementation](https://www.gislounge.com/defining-waterfall-and-agile-gis-project-management-styles/)
 **Homework: []()**
+
 **Homework Readings**
 **Thursday, March 15** 
 
+
 #### Week 11:  Methods?
 **Homework: []()**
+
 **Homework Readings**
 **Thursday, March 22** 
 
+
 #### Week 12:  Finding Data for Your Project
 **Homework: []()**
+
 **Homework Readings**
 **Thursday, March 29** 
 
+
 #### Week 13:  Cartography and Map Design
 **Homework: []()**
+
 **Homework Readings**
 **Thursday, April 5** 
 
+
 #### Week 14:  
 **Homework: []()**
+
 **Homework Readings**
 **Thursday, April 12* 
+
 
 #### Week 15:  Show and Tell
 **Thursday, April 19** 
