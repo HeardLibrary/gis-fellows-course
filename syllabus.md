@@ -24,7 +24,7 @@ By the end of this course, the student will:
 
 ## Texts and readings:
 
-* [Geographic Information Science and Sytems by Paul A. Longley](https://www.amazon.com/Geographic-Information-Science-Systems-Longley/dp/1118676955/ref=sr_1_1?s=books&ie=UTF8&qid=1513110139&sr=1-1)
+* [Geographic Information Science and Systems by Paul A. Longley](https://www.amazon.com/Geographic-Information-Science-Systems-Longley/dp/1118676955/ref=sr_1_1?s=books&ie=UTF8&qid=1513110139&sr=1-1)
 * [Nature of Geographic Information Systems by David DiBiase](http://open.umn.edu/opentextbooks/BookDetail.aspx?bookId=428)  
 
 ## Software
@@ -58,28 +58,32 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 ### Week 1:  Introductions
 **Homework: [Getting Started with GIS](https://www.esri.com/training/catalog/57630434851d31e02a43ef28/getting-started-with-gis/) and [Using ArcMap in ArcGIS 10](https://www.esri.com/training/catalog/5763042b851d31e02a43ed4d/using-arcmap-in-arcgis-desktop-10/)**
 
-**Homework Readings: Chapter 1 of Geographic Information Science and Sytems by Paul A. Longley**
+**Homework Readings: Chapter 1 of Geographic Information Science and Systems by Paul A. Longley**
+
 **Thursday, January 11** 
 
 
 ### Week 2:  What is GIS?
 **Homework: [Referencing Data to Real-World Locations Using ArcGIS](https://www.esri.com/training/catalog/57630438851d31e02a43f293/referencing-data-to-real-world-locations-using-arcgis/)**
 
-**Homework Readings: Chapter 2 of Geographic Information Science and Sytems by Paul A. Longley**
+**Homework Readings: Chapter 2 & 3 of Geographic Information Science and Systems by Paul A. Longley**
+
 **Thursday, January 18** 
 
 
-### Week 3:  The Nature of Geographic Data
+### Week 3:  The Nature of Geographic Data and Representing Geography
 **Homework: []()**
 
-**Homework Readings:**
+**Homework Readings: Chapter 4 of Geographic Information Science and Systems by Paul A. Longley**
+
 **Thursday, January 25**
 
 
 ### Week 4:  Geocoding & Georeferencing
-**Homework: []()**
+**Homework: [Georeferencing with ArcGIS]()**
 
 **Homework Readings**
+
 **Thursday, February 1** 
 
 
@@ -87,6 +91,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 **Homework: []()**
 
 **Homework Readings**
+
 **Thursday, February 8** 
 
 
@@ -94,6 +99,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 **Homework: []()**
 
 **Homework Readings**
+
 **Thursday, February 15**
 
 
@@ -101,6 +107,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 **Homework: []()**
 
 **Homework Readings: Chapter 13 of Geographic Information Science and Systems**
+
 **Thursday, February 22** 
 
 
@@ -108,6 +115,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 **Homework: []()**
 
 **Homework Readings**
+
 **Thursday, March 1, Project Proposal Due**
 
 
@@ -115,6 +123,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 **Homework: []()**
 
 **Homework Readings**
+
 **Thursday, March 8** 
 
 
@@ -122,6 +131,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 **Homework: []()**
 
 **Homework Readings**
+
 **Thursday, March 15** 
 
 
@@ -129,6 +139,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 **Homework: []()**
 
 **Homework Readings**
+
 **Thursday, March 22** 
 
 
@@ -136,6 +147,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 **Homework: []()**
 
 **Homework Readings**
+
 **Thursday, March 29** 
 
 
@@ -143,6 +155,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 **Homework: []()**
 
 **Homework Readings**
+
 **Thursday, April 5** 
 
 
@@ -150,8 +163,10 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 **Homework: []()**
 
 **Homework Readings**
+
 **Thursday, April 12* 
 
 
 ### Week 15:  Show and Tell
+
 **Thursday, April 19** 
