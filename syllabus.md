@@ -57,11 +57,13 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 #### Week 1:  Introductions
 **Homework: [Getting Started with GIS](https://www.esri.com/training/catalog/57630434851d31e02a43ef28/getting-started-with-gis/) and [Using ArcMap in ArcGIS 10](https://www.esri.com/training/catalog/5763042b851d31e02a43ed4d/using-arcmap-in-arcgis-desktop-10/)**
+
 **Homework Readings: Chapter 1 of Geographic Information Science and Sytems by Paul A. Longley**
 **Thursday, January 11** 
 
 #### Week 2:  What is GIS?
 **Homework: [Referencing Data to Real-World Locations Using ArcGIS](https://www.esri.com/training/catalog/57630438851d31e02a43f293/referencing-data-to-real-world-locations-using-arcgis/)**
+
 **Homework Readings: Chapter 2 of Geographic Information Science and Sytems by Paul A. Longley**
 **Thursday, January 18** 
 
