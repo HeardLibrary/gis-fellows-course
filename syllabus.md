@@ -24,6 +24,7 @@ By the end of this course, the student will:
 
 ## Texts and readings:
 
+* [Geographic Information Science and Sytems by Paul A. Longley](https://www.amazon.com/Geographic-Information-Science-Systems-Longley/dp/1118676955/ref=sr_1_1?s=books&ie=UTF8&qid=1513110139&sr=1-1)
 * [Nature of Geographic Information Systems by David DiBiase](http://open.umn.edu/opentextbooks/BookDetail.aspx?bookId=428)  
 
 ## Software
@@ -56,68 +57,73 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 #### Week 1:  Introductions
 **Homework: [Getting Started with GIS](https://www.esri.com/training/catalog/57630434851d31e02a43ef28/getting-started-with-gis/) and [Using ArcMap in ArcGIS 10](https://www.esri.com/training/catalog/5763042b851d31e02a43ed4d/using-arcmap-in-arcgis-desktop-10/)**
+**Homework Readings: Chapter 1 of Geographic Information Science and Sytems by Paul A. Longley**
 **Thursday, January 11** 
 
-#### Week 2:  Chapter 1- Data and Information
+#### Week 2:  What is GIS?
 **Homework: [Referencing Data to Real-World Locations Using ArcGIS](https://www.esri.com/training/catalog/57630438851d31e02a43f293/referencing-data-to-real-world-locations-using-arcgis/)**
-
+**Homework Readings: Chapter 2 of Geographic Information Science and Sytems by Paul A. Longley**
 **Thursday, January 18** 
 
-#### Week 3:  Chapter 2- Scales and Transformations
-
+#### Week 3:  The Nature of Geographic Data
+**Homework: []()**
+**Homework Readings:**
 **Thursday, January 25**
 
-#### Week 4:  Cartography
-
+#### Week 4:  Geocoding & Georeferencing
+**Homework: []()**
+**Homework Readings**
 **Thursday, February 1** 
 
-#### Week 5:  Chapter 4- Geocoding & Georeferencing: Case Study Mapping Berlin Project
-
+#### Week 5:  GI System Software
+**Homework: []()**
+**Homework Readings**
 **Thursday, February 8** 
 
 #### Week 6:  Web Mapping Applications
-
+**Homework: []()**
+**Homework Readings**
 **Thursday, February 15**
 
 #### Week 7:  Chapter 8- Remotely Sensed Image Data and Remote Sensing
-
+**Homework: []()**
+**Homework Readings: Chapter 13 of Geographic Information Science and Systems**
 **Thursday, February 22** 
 
-#### Week 8:  Spatial Analysis
-
+#### Week 8:  Spatial Data Analysis
+**Homework: []()**
+**Homework Readings**
 **Thursday, March 1, Project Proposal Due**
 
 #### Week 9:  Spring Break- No Class
-
+**Homework: []()**
+**Homework Readings**
 **Thursday, March 8** 
 
 #### Week 10:  Project Methodology Development and [Implementation](https://www.gislounge.com/defining-waterfall-and-agile-gis-project-management-styles/)
-
+**Homework: []()**
+**Homework Readings**
 **Thursday, March 15** 
 
 #### Week 11:  Methods?
-
+**Homework: []()**
+**Homework Readings**
 **Thursday, March 22** 
 
 #### Week 12:  Finding Data for Your Project
-
+**Homework: []()**
+**Homework Readings**
 **Thursday, March 29** 
 
-#### Week 13:  
-
+#### Week 13:  Cartography and Map Design
+**Homework: []()**
+**Homework Readings**
 **Thursday, April 5** 
 
 #### Week 14:  
-
+**Homework: []()**
+**Homework Readings**
 **Thursday, April 12* 
 
 #### Week 15:  Show and Tell
-
 **Thursday, April 19** 
-
-
-
-
-
-
- 
