@@ -1,7 +1,7 @@
 # Introduction to Geographic Information Systems   
 ## Spring Semester 2018
-#### Thursdays, 11:10am - 12:25pm
-#### Stevenson 2200 (Stevenson  Computer Lab)
+#### Wednesdays, 3:00pm - 4:00pm
+#### Stevenson 2200 (Stevenson Computer Lab)
 
 Lindsey Fox, *GIS Coordinator*
 
@@ -12,7 +12,6 @@ Richard Stringer-Hye, *Librarian for Earth and Environmental Sciences and Civil 
 Email:  richard.stringer-hye@vanderbilt.edu
 
 This course will teach students how to solve practical spatial problems using cutting edge Geographic Information Systems (GIS) tools. Students will identify interdisciplinary questions amenable to spatial solutions, learn how to collect and curate geographic information, and design real-world mapping applications. By the end of the course, students will have gained familiarity with multiple types of GIS systems, and be able to select which system best fits their research needs. In addition, students will share and develop their geographic analyses with community stakeholders.  Lead mentors: Lindsey Fox and Richard Stringer-Hye.
-
 
 ## Learning Objectives:
 
@@ -53,6 +52,10 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 ## Lab Hours:
 
+## Project Proposal
+
+## Final Project
+
 ## Schedule:
 
 ### Week 1:  Introductions
@@ -60,7 +63,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 **Homework Readings: Chapter 1 of Geographic Information Science and Systems by Paul A. Longley**
 
-**Thursday, January 11** 
+**Wednesday, January 17** 
 
 
 ### Week 2:  What is GIS?
@@ -68,7 +71,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 **Homework Readings: Chapter 2 & 3 of Geographic Information Science and Systems by Paul A. Longley**
 
-**Thursday, January 18** 
+**Wednesday, January 24** 
 
 
 ### Week 3:  The Nature of Geographic Data and Representing Geography
@@ -76,7 +79,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 **Homework Readings: Chapter 4 of Geographic Information Science and Systems by Paul A. Longley**
 
-**Thursday, January 25**
+**Wednesday, January 31**
 
 
 ### Week 4:  Geocoding & Georeferencing
@@ -84,7 +87,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 **Homework Readings**
 
-**Thursday, February 1** 
+**Wednesday, February 7** 
 
 
 ### Week 5:  GI System Software
@@ -92,7 +95,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 **Homework Readings**
 
-**Thursday, February 8** 
+**Wednesday, February 14** 
 
 
 ### Week 6:  Web Mapping Applications
@@ -100,7 +103,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 **Homework Readings**
 
-**Thursday, February 15**
+**Wednesday, February 21**
 
 
 ### Week 7:  Chapter 8- Remotely Sensed Image Data and Remote Sensing
@@ -108,23 +111,23 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 **Homework Readings: Chapter 13 of Geographic Information Science and Systems**
 
-**Thursday, February 22** 
+**Wednesday, February 28. Project Proposal Due** 
 
 
-### Week 8:  Spatial Data Analysis
+### Week 8:  Spring Break- No Class
 **Homework: []()**
 
 **Homework Readings**
 
-**Thursday, March 1, Project Proposal Due**
+**Wednesday, March 7**
 
 
-### Week 9:  Spring Break- No Class
+### Week 9:  Spatial Data Analysis
 **Homework: []()**
 
 **Homework Readings**
 
-**Thursday, March 8** 
+**Wednesday, March 14** 
 
 
 ### Week 10:  Project Methodology Development and [Implementation](https://www.gislounge.com/defining-waterfall-and-agile-gis-project-management-styles/)
@@ -132,7 +135,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 **Homework Readings**
 
-**Thursday, March 15** 
+**Wednesday, March 21** 
 
 
 ### Week 11:  Methods?
@@ -140,7 +143,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 **Homework Readings**
 
-**Thursday, March 22** 
+**Wednesday, March 28** 
 
 
 ### Week 12:  Finding Data for Your Project
@@ -148,7 +151,7 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 **Homework Readings**
 
-**Thursday, March 29** 
+**Wednesday, April 4** 
 
 
 ### Week 13:  Cartography and Map Design
@@ -156,17 +159,13 @@ Schedule an appointment with Rick: [Appointment Scheduler](http://calendar.libra
 
 **Homework Readings**
 
-**Thursday, April 5** 
+**Wednesday, April 11** 
 
 
-### Week 14:  
+### Week 14: Show and Tell 
 **Homework: []()**
 
 **Homework Readings**
 
-**Thursday, April 12* 
+**Thursday, April 18* 
 
-
-### Week 15:  Show and Tell
-
-**Thursday, April 19** 
