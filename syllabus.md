@@ -24,7 +24,7 @@ By the end of this course, the student will:
 
 ## Texts and readings:
 
-* [Geographic Information Science and Systems by Paul A. Longley](https://www.amazon.com/Geographic-Information-Science-Systems-Longley/dp/1118676955/ref=sr_1_1?s=books&ie=UTF8&qid=1513110139&sr=1-1)
+* [Geographic Information Science and Systems (4th ed.) by Paul A. Longley](https://www.amazon.com/Geographic-Information-Science-Systems-Longley/dp/1118676955/ref=sr_1_1?s=books&ie=UTF8&qid=1513110139&sr=1-1)
 * [Nature of Geographic Information Systems by David DiBiase](http://open.umn.edu/opentextbooks/BookDetail.aspx?bookId=428)  
 
 ## Software
